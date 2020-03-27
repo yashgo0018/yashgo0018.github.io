@@ -1,7 +1,7 @@
 ---
 title: 'Tally Clone'
 date: 2019-07-17
-tags: [angular, firebase, business, javascript]
+permalink: /about/
 ---
 
 This is a accounting web app that can serve the purpose of tally. This is developed with angular and firebase. [View Demo](https://tally-clone.firebaseapp.com/)
